@@ -152,6 +152,13 @@ span{
      color: #09ee68;
   }
 
+  .fa-facebook {
+    margin:10px 5px;
+     padding: 5px;
+     color: white;
+     background: rgb(4, 7, 165);
+   }
+
   .fa-address-book {
    margin:5px;
     padding: 5px;
@@ -164,6 +171,11 @@ span{
      color: rgb(211, 130, 130);
    }
 
+   .unlinkingOne{
+     text-decoration: none;
+     color: white;
+     margin-left: 10px;
+   }
 
   /* Media Queries */
   
